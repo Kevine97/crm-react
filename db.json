@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Kevin Esquivel",
+      "empresa": "iDo Agency",
+      "telefono": "82784374",
+      "email": "kevinboateng010997@gmail.com",
+      "notas": "Hola Raza",
+      "id": 1
+    },
+    {
+      "nombre": "Kevin Esquivel",
+      "empresa": "iDo Agency",
+      "telefono": "82784374",
+      "email": "kevinboateng010997@gmail.com",
+      "notas": "Hola Raza",
+      "id": 2
+    },
+    {
+      "nombre": "Kevin Esquivel",
+      "empresa": "iDo Agency",
+      "telefono": "82784374",
+      "email": "kevinboateng010997@gmail.com",
+      "notas": "Hola Raza",
+      "id": 3
+    },
+    {
+      "nombre": "Kevin Esquivel",
+      "empresa": "iDo Agency",
+      "telefono": "82784374",
+      "email": "kevinboateng010997@gmail.com",
+      "notas": "Hola Raza",
+      "id": 4
+    },
+    {
+      "nombre": "Xaviera Martinez",
+      "empresa": "iDO",
+      "telefono": "82784374",
+      "email": "Xavi@hotmail.com",
+      "notas": "Hola xdxd",
+      "id": 5
+    }
+  ]
+}

@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.img-icon {
+  position: fixed;
+  width: 300px;
+  height: 400px;
+  bottom: -20px;
+  left: -42px;
+}
+
+@media (max-width: 1000px) {
+  .img-icon {
+    display: none;
+  }
+}
