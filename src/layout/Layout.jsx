@@ -1,7 +1,7 @@
 import React from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { rutas } from "../data/rutas";
-import Icon from '../favicon.svg'
+import Icon from '../icono.svg'
 const Layout = () => {
     let location = useLocation();
     let urlActual = location.pathname;
@@ -20,7 +20,7 @@ const Layout = () => {
         <img src={Icon} alt="ICONO DE LA APP" className="img-icon" />
        </div>
 
-      <div className="md:w-3/4 p-10 md:h-screen overflow-y-scroll overflow-x-hidden">
+      <div className="md:w-3/4 p-10 md:h-screen overflow-y-scroll">
         <Outlet />
       </div>
     </div>
